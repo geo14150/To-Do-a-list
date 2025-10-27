@@ -1,2 +1,2 @@
 # To-Do-a-list
-Doing a  daily list
+Do a daily list with html-css-javascript
